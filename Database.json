@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "firstname": "yashwanth",
+      "lastname": "sai",
+      "phoneno": "8223232323",
+      "email": "sret@gm",
+      "address": "ajsj",
+      "id": 3
+    },
+    {
+      "firstname": "divya",
+      "lastname": "l",
+      "phoneno": "1234444444",
+      "email": "san@gmail.com",
+      "address": "ytyt",
+      "id": 4
+    },
+    {
+      "firstname": "sreta",
+      "lastname": "hjhj",
+      "phoneno": "8888888",
+      "email": "srer@hkj",
+      "address": "Flat 403,N.V.S.Towers,Somajiguda,hyderabad,Telangana.",
+      "id": 5
+    },
+    {
+      "firstname": "Gavini",
+      "lastname": "sreya",
+      "phoneno": "8897018877",
+      "email": "srett@GHG",
+      "address": "Flat 403,N.V.S.Towers,Somajiguda,hyderabad,Telangana.",
+      "id": 6
+    }
+  ]
+}
